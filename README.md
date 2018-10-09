@@ -6,7 +6,7 @@ Shiny is an R package that makes it easy to build interactive web apps straight 
 You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards.<br/>
 You can also extend your shiny apps with CSS themes, htmlwidgets, and JavaScript actions.<br/>
 
-You can view Shiny website [here](https://shiny.rstudio.com/).
+For more information on Shiny you can click [here](https://shiny.rstudio.com/).
 
 **_What is RStudio?_**
 
