@@ -44,7 +44,7 @@ There are other examples you may run by viewing this document [here](https://shi
 
 ### Shiny with other Data Vis. APIs
 
-
+There is a big focus in using R with these Data Vis APIs. Shiny works with a few other APIs just by using R and inserting (Ex: `library(name of library to use)`).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
