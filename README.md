@@ -14,11 +14,15 @@ For more information on Shiny you can click [here](https://shiny.rstudio.com/).
 
 RStudio is a company that develops free and open tools for R and enterprise-ready professional products for teams to scale and share work.<br/>
 
+![RStudio](RStudio.png)
+
 For more information on RStudio you can click [here](https://www.rstudio.com/).
 
 **_What is R?_**
 
 R is a programming language and environment for statistical computing and graphics.
+
+![R-Programming](R-Programming.png)
 
 For more information on R you can click [here](https://www.r-project.org/).
 
