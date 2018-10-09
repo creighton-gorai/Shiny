@@ -22,7 +22,9 @@ For more information on R you can click [here](https://www.r-project.org/).
 
 ### Shiny with R programming
 
-If you are new to R you can learn more about it with the link above. I will also provide a link to the download page [here](https://cran.r-project.org/mirrors.html)<br/>
+If you are new to R you can learn more about it with the link above.<br/>
+I will also provide a link to the download page [here](https://cran.r-project.org/mirrors.html)<br/>
+The Steps below are to get R running on your computer and test.<br/>
 Steps:
 1) Choose server closest to your location.
 2) Choose which OS you are using
@@ -32,6 +34,9 @@ Steps:
 6) Then type `library(shiny)` and `runExample("01_hello")`<br/>
 This will open up the example of their hello world project using Shiny and R for you to view.<br/>
 There are other examples you may run by viewing this document [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/#Go%20Further).
+
+### Shiny with other Data vis APIs
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
