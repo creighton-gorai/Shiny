@@ -25,6 +25,7 @@ For more information on R you can click [here](https://www.r-project.org/).
 If you are new to R you can learn more about it with the link above.<br/>
 I will also provide a link to the download page [here](https://cran.r-project.org/mirrors.html)<br/>
 The Steps below are to get R running on your computer and test.<br/>
+
 Steps:
 1) Choose server closest to your location.
 2) Choose which OS you are using
