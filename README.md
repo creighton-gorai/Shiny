@@ -28,7 +28,10 @@ Steps:
 2) Choose which OS you are using
 3) Click on the package that follows with which situation you would like to download R for.
 4) Once downloaded open R and it should look like a terminal
-5) type `install.packages("shiny")`
+5) type `install.packages("shiny")`. This will install all shiny packages into R.
+6) Then type `library(shiny)` and `runExample("01_hello")`<br/>
+This will open up the example of their hello world project using Shiny and R for you to view.<br/>
+There are other examples you may run by viewing this document [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/#Go%20Further).
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
