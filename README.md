@@ -42,7 +42,7 @@ Steps:
 This will open up the example of their hello world project using Shiny and R for you to view.<br/>
 There are other examples you may run by viewing this document [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/#Go%20Further).
 
-### Shiny with other Data vis APIs
+### Shiny with other Data Vis. APIs
 
 
 
