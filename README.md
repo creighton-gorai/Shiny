@@ -35,7 +35,7 @@ Shiny has many examples of different types of Data Visualizations. Below are a f
 _Movie Explorer_
 ![movie-explorer](movie-explorer.png)
 
-The graph above shows us movies that were made from 1970 - 2014, that made between $0 - $800m, and have a minimum of 10 - 80 rotten tomatoe reviews. You might also notice which movies have won an oscar.
+The graph above shows us movies that were made from 1970 - 2014, that grossed between $0 - $800m, and have a minimum of 10 - 80 rotten tomatoe reviews. You might also notice which movies have won an oscar.
 
 _World Cloud_
 ![word-cloud](word-cloud.png)
