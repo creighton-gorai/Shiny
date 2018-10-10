@@ -51,10 +51,9 @@ Click [here](https://shiny.rstudio.com/gallery/) to see more exmaples of what yo
 
 ### Learn Shiny!
 
-Shiny allows you to comfortably learn it's usage by taking you through tutorials. Which can be found by clicking the link! [Learn Shiny](https://shiny.rstudio.com/tutorial/)
-- They offer video and written tutorials on Shiny!
+Shiny allows you to comfortably learn it's usage by taking you through their tutorials. Which can be found by clicking the link! [Learn Shiny!](https://shiny.rstudio.com/tutorial/). They offer video and written tutorials on Shiny!
 
-_Let's take a look at Lesson 1 "Welcome to Shiny"_
+**_Let's take a look at Lesson 1 "Welcome to Shiny"_**
 
 If you are new to R you can learn more about it bu clicking [here](https://www.r-project.org/).<br/>
 I will also provide a link to the download page [here](https://cran.r-project.org/mirrors.html).<br/>
@@ -72,9 +71,10 @@ Steps:
 This will open up the example of their hello world project using Shiny and R for you to view.<br/>
 There are other examples you may run by viewing this document [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/#Go%20Further).
 
-In the end Shiny will look like the following pictures below:
+In the end Shiny will look like the following:
 
-![]()
+_Here is the `ui` object for the **Hello Shiny** example._
+`This`
 
 ### Shiny with other Data Vis. APIs
 
