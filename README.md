@@ -10,6 +10,7 @@
 
 For more information on Shiny you can click [here](https://shiny.rstudio.com/).
 
+
 **_What is RStudio?_**
 
 RStudio is a company that develops free and open tools for R and enterprise-ready professional products for teams to scale and share work.<br/>
@@ -17,6 +18,7 @@ RStudio is a company that develops free and open tools for R and enterprise-read
 ![RStudio](RStudio.png)
 
 For more information on RStudio you can click [here](https://www.rstudio.com/).
+
 
 **_What is R?_**
 
@@ -26,7 +28,13 @@ R is a programming language and environment for statistical computing and graphi
 
 For more information on R you can click [here](https://www.r-project.org/).
 
-## What can Shiny do?
+### What can Shiny make?
+
+Shiny has many examples of different types of Data Visualizations. Below are a few pictures of what types of graphs you can make with Shiny.
+
+![
+
+Click [here](https://shiny.rstudio.com/gallery/) to see more Examples!
 
 ### Shiny with R programming
 
