@@ -49,6 +49,8 @@ Superzip is an interactive map of the US where you can view which states have su
 
 Click [here](https://shiny.rstudio.com/gallery/) to see more exmaples of what you can do with Shiny!
 
+Shiny allows you to comfortably learn it's usage by taking you through tutorials. Which can be found by clicking the link! [Learn Shiny](https://shiny.rstudio.com/tutorial/)
+
 ### Shiny with R programming
 
 If you are new to R you can learn more about it with the link above.<br/>
