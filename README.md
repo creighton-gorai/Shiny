@@ -74,7 +74,8 @@ There are other examples you may run by viewing this document [here](https://shi
 In the end Shiny will look like the following:
 
 _Here is the `ui` object for the **Hello Shiny** example._
-`library(shiny)
+```
+library(shiny)
 
 # Define UI for app that draws a histogram ----
 ui <- fluidPage(
@@ -105,8 +106,8 @@ ui <- fluidPage(
 
     )
   )
-)`
-
+)
+```
 ### Shiny with other Data Vis. APIs
 
 Shiny can be used with other libraries in R by inputting `library(name_of_library)` (Ex: library(shiny)). This will allow use of another library in R. Since you can add multiple libraries in R you can use Shiny with other Javascript libraries such as d3, Leaflet, and Google Charts. 
