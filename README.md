@@ -36,11 +36,11 @@ Shiny has many examples of different types of Data Visualizations. Below are a f
 
 The graph above shows us movies that were made from 1970 - 2014, that made between $0 - $800m, and have a minimum of 10 - 80 rotten tomatoe reviews. You might also notice which movies have won an oscar.
 
-![word-count](word-count.png)
+![word-cloud](word-cloud.png)
 
 This is just a world cloud from the book A Mid Summer Night's Dream where the words need to have a frequency of 1 - 15 and there can only be a maximum of 100 words that can be shown at one time.
 
-![zipcode-explorer](https://shiny.rstudio.com/gallery/superzip-example.html)
+![zipcode-explorer](zipcode-explorer.png)
 
 Superzip is an interactive map of the US where you can view which states have superzips (Definition of Superzip: Zip Codes int he US with the highest per capita income and college graduation rates.
 
