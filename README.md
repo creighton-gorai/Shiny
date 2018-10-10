@@ -45,7 +45,7 @@ This is just a world cloud from the book A Mid Summer Night's Dream where the wo
 _Zipcode Explorer_
 ![zipcode-explorer](zipcode-explorer.png)
 
-Superzip is an interactive map of the US where you can view which states have superzips (Definition of Superzip: Zip Codes int he US with the highest per capita income and college graduation rates.
+Superzip is an interactive map of the US where you can view which states have superzips (Definition of Superzip: Zip Codes in the US with the highest per capita income and college graduation rates.
 
 [Click here](https://shiny.rstudio.com/gallery/) to see Shiny gallery and more exmaples of what you can do with Shiny!
 
