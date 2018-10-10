@@ -40,7 +40,7 @@ The graph above shows us movies that were made from 1970 - 2014, that grossed be
 _World Cloud_
 ![word-cloud](word-cloud.png)
 
-This is just a world cloud from the book A Mid Summer Night's Dream where the words need to have a frequency of 1 - 15 and there can only be a maximum of 100 words that can be shown at one time.
+This is just a world cloud of the book A Mid Summer Night's Dream where the words need to have a frequency of 1 - 15 and there can only be a maximum of 100 words that can be shown at one time.
 
 _Zipcode Explorer_
 ![zipcode-explorer](zipcode-explorer.png)
