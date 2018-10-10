@@ -73,7 +73,7 @@ There are more examples you may run by viewing this document [here](https://shin
 
 Your results might look like the following below:
 
-![]()
+![hello-shiny](hello-shiny.png)
 
 _Here is the `ui` object for the **Hello Shiny** example._
 ```
