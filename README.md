@@ -32,7 +32,7 @@ For more information on R you can click [here](https://www.r-project.org/).
 
 Shiny has many examples of different types of Data Visualizations. Below are a few pictures of what types of graphs you can make with Shiny.
 
-![
+![]()
 
 Click [here](https://shiny.rstudio.com/gallery/) to see more Examples!
 
