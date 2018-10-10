@@ -68,8 +68,10 @@ Steps:
 ![R-console](R-console.png)
 5) type `install.packages("shiny")`. This will install all shiny packages into R.
 6) Then type `library(shiny)` and `runExample("01_hello")`.
+![hello-shiny-input](hello-shiny-input.png)
 7) To exit press `esc` on your keyboard.<br/>
 The above steps will open a running example of Hello Shiny. <br/>
+![results-hello-shiny](results-hello-shiny.png)
 There are more examples you may run by viewing this document [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/#Go%20Further).
 
 Your results might look like the following below:
