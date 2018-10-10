@@ -51,7 +51,7 @@ Superzip is an interactive map of the US where you can view which states have su
 
 ### Learn Shiny!
 
-Shiny allows you to comfortably learn it's usage by taking you through their tutorials. Which can be found by clicking the link! [Learn Shiny!](https://shiny.rstudio.com/tutorial/). They offer video and written tutorials on Shiny!
+Shiny allows you to comfortably learn it's usage by taking you through their tutorials. Which can be found by clicking the following link! [Learn Shiny!](https://shiny.rstudio.com/tutorial/) They offer 2 and a half hours worth of videos and a readable 7 lesson tutorial.
 
 **_Let's take a look at Lesson 1 "Welcome to Shiny"_**
 
@@ -69,9 +69,11 @@ Steps:
 6) Then type `library(shiny)` and `runExample("01_hello")`.<br/>
 7) To exit press `esc` on your keyboard.
 This will open up the example of their hello world project using Shiny and R for you to view.<br/>
-There are other examples you may run by viewing this document [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/#Go%20Further).
+There are more examples you may run by viewing this document [here](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/#Go%20Further).
 
-In the end Shiny will look like the following:
+Your results might look like the following below:
+
+![]()
 
 _Here is the `ui` object for the **Hello Shiny** example._
 ```
