@@ -28,7 +28,7 @@ R is a programming language and environment for statistical computing and graphi
 
 For more information on R you can click [here](https://www.r-project.org/).
 
-### What can Shiny make?
+### What can you make with Shiny?
 
 Shiny has many examples of different types of Data Visualizations. Below are a few pictures of what types of graphs you can make with Shiny.
 
