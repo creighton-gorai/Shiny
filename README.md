@@ -109,7 +109,7 @@ ui <- fluidPage(
 )
 ```
 
-_Here is the `server` object for the **Hello Shiny** example._
+_Here is the `server` function for the **Hello Shiny** example._
 ```
 # Define server logic required to draw a histogram ----
 server <- function(input, output) {
