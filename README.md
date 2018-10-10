@@ -64,7 +64,8 @@ Steps:
 1) Choose server closest to your location.
 2) Choose which OS you are using.
 3) Click on the package that follows with which situation you would like to download R for.
-4) Once downloaded open R and it should look like a terminal.
+4) Once downloaded open R and it should look like the below picture or something close to it.
+![R-console](R-console.png)
 5) type `install.packages("shiny")`. This will install all shiny packages into R.
 6) Then type `library(shiny)` and `runExample("01_hello")`.
 7) To exit press `esc` on your keyboard.<br/>
